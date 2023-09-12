@@ -1,0 +1,39 @@
+ASV_ID	Kingdom	Phylum	Class	Order	Family	Genus	arc.2C	arc.2C.Gen4	arc.B1	arc.B2	arc.B3	arc.BHI01A	arc.BHI01B	arc.BHI01C	arc.BHI05A	arc.BHI05B	arc.BHI05C	arc.BHI05LB05	arc.LB01A	arc.LB01B	arc.LB01C	arc.LB05A	arc.LB05B	arc.LB05C
+sq1	Archaea	Asgardarchaeota	NA	NA	NA	NA	15817	31201	39143	46491	2592	1695	2346	663	314	67	604	17	2869	2441	3776	184	299	313
+sq2	Archaea	Thermoplasmatota	Thermoplasmata	Marine Benthic Group D and DHVEG-1	NA	NA	9187	20180	21347	21899	2976	1841	724	423	233	48	399	5	1772	2586	1570	255	109	128
+sq3	Archaea	Thermoplasmatota	Thermoplasmata	Marine Benthic Group D and DHVEG-1	NA	NA	1325	4841	2864	2908	506	290	95	84	44	10	122	4	319	429	214	118	1	45
+sq4	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	66	322	83	126	14	14	1	5	0	0	4	0	48	23	6	18	0	0
+sq5	Archaea	Thermoplasmatota	Thermoplasmata	Marine Benthic Group D and DHVEG-1	NA	NA	56	150	89	238	46	10	8	4	0	0	42	0	24	21	0	36	0	0
+sq6	Archaea	Halobacterota	Methanosarcinia	Methanosarciniales	Methanosarcinaceae	Methanosarcina	71	332	58	132	2	9	10	2	0	0	0	0	36	0	16	0	0	0
+sq7	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	40	202	33	250	3	2	7	0	0	0	0	0	20	1	0	0	0	0
+sq8	Archaea	NA	NA	NA	NA	NA	16	245	160	55	13	9	12	2	0	0	0	0	1	37	2	0	0	0
+sq9	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	49	115	59	193	4	3	1	0	0	0	0	0	2	0	0	0	6	0
+sq10	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomethylophilaceae	NA	17	35	25	19	6	2	0	0	2	0	0	0	1	2	2	0	0	0
+sq11	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	2	6	3	72	0	0	0	0	0	0	0	0	3	0	5	0	0	0
+sq12	Archaea	Thermoplasmatota	Thermoplasmata	Marine Benthic Group D and DHVEG-1	NA	NA	16	19	17	10	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+sq13	Archaea	Halobacterota	Methanosarcinia	Methanosarciniales	Methanosarcinaceae	Methanococcoides	0	25	0	0	13	1	0	0	0	0	0	0	9	1	0	0	0	0
+sq14	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	4	1	18	0	0	0	0	0	0	0	0	0	0	11	0	0	0
+sq15	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	18	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+sq16	Archaea	Thermoplasmatota	Thermoplasmata	NA	NA	NA	0	18	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+sq17	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	0	16	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq18	Archaea	NA	NA	NA	NA	NA	2	12	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+sq19	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq20	Archaea	Asgardarchaeota	Lokiarchaeia	NA	NA	NA	0	1	2	2	0	0	2	1	0	0	0	0	4	3	0	0	0	0
+sq21	Archaea	Asgardarchaeota	Lokiarchaeia	NA	NA	NA	1	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq22	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	4	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq23	Archaea	Thermoplasmatota	Thermoplasmata	NA	NA	NA	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq24	Archaea	Thermoplasmatota	Thermoplasmata	Marine Benthic Group D and DHVEG-1	NA	NA	2	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq25	Archaea	Halobacterota	ANME-1	ANME-1b	NA	NA	2	2	0	0	0	0	0	0	0	0	0	0	0	1	5	0	0	0
+sq26	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	8	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+sq27	Archaea	Thermoplasmatota	Thermoplasmata	Marine Benthic Group D and DHVEG-1	NA	NA	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq28	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq29	Archaea	Asgardarchaeota	Lokiarchaeia	NA	NA	NA	0	0	3	1	0	0	1	0	0	0	0	0	0	3	0	0	0	0
+sq30	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	1	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq31	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	2	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0
+sq32	Archaea	Micrarchaeota	Micrarchaeia	Micrarchaeales	NA	NA	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq33	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	1	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq34	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomethylophilaceae	NA	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq35	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq36	Archaea	Crenarchaeota	Bathyarchaeia	NA	NA	NA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+sq37	Archaea	Micrarchaeota	Micrarchaeia	Micrarchaeales	NA	NA	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sq38	Archaea	Aenigmarchaeota	Deep Sea Euryarchaeotic Group(DSEG)	NA	NA	NA	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
